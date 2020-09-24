@@ -6,7 +6,7 @@ sys.path.append("modules/")
 import helper
 import command
 
-#Author : Omer Gunal (https://github.com/omergunal, https://twitter.com/ogunal00)
+#Author : shooterisblowing (https://github.com/shooterisblowing) (instagram : ravishankar_g_2006)
 
 
 
